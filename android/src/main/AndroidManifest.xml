@@ -9,7 +9,7 @@
             android:grantUriPermissions="true">
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/simple_share_provider_paths" />
+                android:resource="@xml/simple_share_provider_paths"/>
         </provider>
 
     </application>
